@@ -31,7 +31,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Noor HMS**](https://github.com/noooreldein/noor-hms) | Multi-tenant clinic SaaS for sale — PostgreSQL + Prisma, JWT auth, tenant isolation on every query, plan limits, Stripe subscriptions, landing page & full dashboard. | Next.js · TypeScript · Stripe |
+| [**Noor HMS**](https://github.com/noooreldein/noor-hms) | Two-sided health platform: multi-tenant clinic SaaS (PostgreSQL + Prisma + Stripe subscriptions) + patient app with online booking, live doctor chat & verified reviews. | Next.js · TypeScript · Stripe |
 | [**Noor Suite**](https://github.com/noooreldein/noor-suite) | All-in-one business management system — POS, inventory, invoices, CRM, HR, Kanban, double-entry accounting, SVG analytics. 106 files, 22 tests, CI/CD. [live here](https://noooreldein.github.io/noor-suite/) | React · TypeScript |
 | [**Noor Clinic HMS**](https://github.com/noooreldein/noor-clinic) | Full clinic & pharmacy management system in Arabic — dashboard, patients, appointments, inventory, invoices, Canvas-drawn analytics. [live here](https://noooreldein.github.io/noor-clinic/) | Vanilla JS · localStorage |
 | [**FRIENDS — Medical Store**](https://github.com/noooreldein/FRIENDS.egy) | Full Arabic e-commerce for medical products: auth, cart, order tracking, WhatsApp & COD payments, admin dashboard | Next.js · TypeScript · Supabase |
