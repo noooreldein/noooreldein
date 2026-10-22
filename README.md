@@ -1,21 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1200&color=3DDC84&center=true&vCenter=true&width=520&lines=Bot+Developer+%7C+AI+Builder+%7C+Full-Stack" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1200&color=3DDC84&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Nour+Eldein+%F0%9F%91%8B;Bot+Developer+%7C+Full-Stack+%7C+AI" alt="typing" />
 
-</div>
+### Egyptian developer shipping real products — bots, e-commerce platforms & AI apps
 
-<h3 align="center">Egyptian developer shipping real products — bots, e-commerce platforms & AI apps</h3>
-
-<br>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=noooreldein&color=3ddc84&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/noooreldein?label=Followers&style=for-the-badge&color=3ddc84" alt="followers" />
 
 </div>
 
@@ -23,10 +13,16 @@
 
 ## About Me
 
-- Building Telegram & WhatsApp bots with real production users
-- Full-stack web: Next.js, Supabase, Express, SQLite
-- AI apps integrations: OpenAI, Gemini, DeepSeek APIs
-- Everything deployed and live — check the links below
+- 🔭 I'm currently building **Telegram & WhatsApp bots** and **e-commerce platforms**
+- 🤖 AI integrations: OpenAI, Gemini, DeepSeek APIs
+- 🌐 Everything I build gets **deployed and live** — mostly on Vercel
+- 📫 Reach me through the links below
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,react,nextjs,tailwind,sqlite,supabase,git,github,vercel&theme=dark" alt="skills" />
+</div>
 
 <br>
 
@@ -39,7 +35,7 @@
 | [**FastBots Python**](https://github.com/noooreldein/FastBots-Python) | Music bot factory — unlimited Telegram music bots in pure Python | Python · PyTgCalls |
 | [**NORSMS**](https://github.com/noooreldein/norsms) | Virtual SMS activation platform with dashboards & private API | Node.js · Express · SQLite |
 | [**Chat Zone**](https://github.com/noooreldein/chat-zone) | Real-time chat platform, [live here](https://chat-zone-tau.vercel.app) | HTML/CSS/JS |
-| [**HMGPT**](https://github.com/noooreldein/HMGPT) | AI chat web app, [live here](https://pyramids-dun.vercel.app) | Python · AI APIs |
+| [**X-HOST Panel v3**](https://github.com/noooreldein/X-HOSV3) | Web hosting control panel for managing bot deployments | HTML/CSS/JS |
 
 <br>
 
@@ -47,11 +43,35 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=noooreldein&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noooreldein&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="langs" />
 </div>
+<div align="center">
+  <img height="170" src="https://streak-stats.demoparadise.com?user=noooreldein&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84" alt="streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=noooreldein&theme=chartreuse-dark&no-frame=true&no-bg=true&column=7" alt="trophies" />
+</div>
+
+<br>
+
+## Contribution Graph
+
+<img src="https://raw.githubusercontent.com/noooreldein/noooreldein/output/github-snake.svg" alt="snake" width="100%"/>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noooreldein&bg_color=0d1117&color=8fa0b3&line=3ddc84&point=ffffff&area=true&hide_border=true" width="90%" alt="activity" />
+</div>
 
 <br>
 
 <div align="center">
 
-**Portfolio:** coming soon
+### Find me online
+
+<img src="https://img.shields.io/badge/Portfolio-noooreldein.github.io-3ddc84?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" />
+<a href="https://github.com/noooreldein"><img src="https://img.shields.io/badge/GitHub-noooreldein-333?style=for-the-badge&logo=github" alt="github" /></a>
 
 </div>
