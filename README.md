@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1200&color=3DDC84&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Nour+Eldein+%F0%9F%91%8B;Bot+Developer+%7C+Full-Stack+%7C+AI" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1200&color=3DDC84&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Nour+Eldein+%F0%9F%91%8B;Full-Stack+Web+Developer" alt="typing" />
 
-### Egyptian developer shipping real products — bots, e-commerce platforms & AI apps
+### Egyptian full-stack web developer — e-commerce platforms, real-time apps & AI-powered web apps
 
 <img src="https://komarev.com/ghpvc/?username=noooreldein&color=3ddc84&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/noooreldein?label=Followers&style=for-the-badge&color=3ddc84" alt="followers" />
@@ -13,15 +13,16 @@
 
 ## About Me
 
-- 🔭 I'm currently building **Telegram & WhatsApp bots** and **e-commerce platforms**
-- 🤖 AI integrations: OpenAI, Gemini, DeepSeek APIs
-- 🌐 Everything I build gets **deployed and live** — mostly on Vercel
+- 🔭 Currently building **full-stack web platforms** — e-commerce, real-time apps and dashboards
+- 🎯 Next.js frontends, Node.js backends, Supabase & SQLite databases
+- 🤖 AI-powered features in my web apps: OpenAI, Gemini, DeepSeek APIs
+- 🌐 Everything I build is **deployed and live** — mostly on Vercel
 - 📫 Reach me through the links below
 
 <br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,react,nextjs,tailwind,sqlite,supabase,git,github,vercel&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,sqlite,supabase,git,github,vercel,py&theme=dark" alt="skills" />
 </div>
 
 <br>
@@ -31,11 +32,11 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**FRIENDS — Medical Store**](https://github.com/noooreldein/FRIENDS.egy) | Full Arabic e-commerce for medical products: auth, cart, order tracking, WhatsApp & COD payments, admin dashboard | Next.js · TypeScript · Supabase |
-| [**ABYSS BOT MD**](https://github.com/noooreldein/ABYSS-BOT-MD-whatsapp-bot) | Multi-device WhatsApp bot: automation, moderation, AI, custom replies | Node.js · Baileys |
-| [**FastBots Python**](https://github.com/noooreldein/FastBots-Python) | Music bot factory — unlimited Telegram music bots in pure Python | Python · PyTgCalls |
-| [**NORSMS**](https://github.com/noooreldein/norsms) | Virtual SMS activation platform with dashboards & private API | Node.js · Express · SQLite |
 | [**Chat Zone**](https://github.com/noooreldein/chat-zone) | Real-time chat platform, [live here](https://chat-zone-tau.vercel.app) | HTML/CSS/JS |
-| [**X-HOST Panel v3**](https://github.com/noooreldein/X-HOSV3) | Web hosting control panel for managing bot deployments | HTML/CSS/JS |
+| [**X-HOST Panel v3**](https://github.com/noooreldein/X-HOSV3) | Web hosting control panel with dashboards for managing deployments | HTML/CSS/JS |
+| [**FullStack API v2**](https://github.com/noooreldein/FullStack-API-V2) | Full-stack API platform with a complete web interface, [live here](https://full-stack-api-v2.vercel.app) | Python · REST |
+| [**HMGPT**](https://github.com/noooreldein/HMGPT) | AI chat web app, [live here](https://pyramids-dun.vercel.app) | Python · AI APIs |
+| [**XKGPT**](https://github.com/noooreldein/XKGPT) | AI assistant web platform with multi-model dashboard, [live here](https://xkgpt.vercel.app) | Python · AI APIs |
 
 <br>
 
@@ -71,7 +72,7 @@
 
 ### Find me online
 
-<img src="https://img.shields.io/badge/Portfolio-noooreldein.github.io-3ddc84?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" />
+<a href="https://noooreldein.github.io"><img src="https://img.shields.io/badge/Portfolio-noooreldein.github.io-3ddc84?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" /></a>
 <a href="https://github.com/noooreldein"><img src="https://img.shields.io/badge/GitHub-noooreldein-333?style=for-the-badge&logo=github" alt="github" /></a>
 
 </div>
