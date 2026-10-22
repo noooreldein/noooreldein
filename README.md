@@ -31,15 +31,15 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Noor HMS**](https://github.com/noooreldein/noor-hms) | Standalone clinic system delivered per-clinic — full EHR medical files, live patient queue, automated WhatsApp notifications (booking, queue, review links) + patient portal with online booking, live doctor chat & verified reviews. | Next.js · TypeScript · Prisma |
-| [**Noor Suite**](https://github.com/noooreldein/noor-suite) | All-in-one business management system — POS, inventory, invoices, CRM, HR, Kanban, double-entry accounting, SVG analytics. 106 files, 22 tests, CI/CD. [live here](https://noooreldein.github.io/noor-suite/) | React · TypeScript |
-| [**Noor Clinic HMS**](https://github.com/noooreldein/noor-clinic) | Full clinic & pharmacy management system in Arabic — dashboard, patients, appointments, inventory, invoices, Canvas-drawn analytics. [live here](https://noooreldein.github.io/noor-clinic/) | Vanilla JS · localStorage |
-| [**FRIENDS — Medical Store**](https://github.com/noooreldein/FRIENDS.egy) | Full Arabic e-commerce for medical products: auth, cart, order tracking, WhatsApp & COD payments, admin dashboard | Next.js · TypeScript · Supabase |
-| [**Chat Zone**](https://github.com/noooreldein/chat-zone) | Real-time chat platform, [live here](https://chat-zone-tau.vercel.app) | HTML/CSS/JS |
-| [**X-HOST Panel v3**](https://github.com/noooreldein/X-HOSV3) | Web hosting control panel with dashboards for managing deployments | HTML/CSS/JS |
-| [**FullStack API v2**](https://github.com/noooreldein/FullStack-API-V2) | Full-stack API platform with a complete web interface, [live here](https://full-stack-api-v2.vercel.app) | Python · REST |
-| [**HMGPT**](https://github.com/noooreldein/HMGPT) | AI chat web app, [live here](https://pyramids-dun.vercel.app) | Python · AI APIs |
-| [**XKGPT**](https://github.com/noooreldein/XKGPT) | AI assistant web platform with multi-model dashboard, [live here](https://xkgpt.vercel.app) | Python · AI APIs |
+| **Noor HMS** | Standalone clinic system delivered per-clinic — full EHR medical files, live patient queue, automated WhatsApp notifications (booking, queue, review links) + patient portal with online booking, live doctor chat & verified reviews. [live demo](https://noor-hms.vercel.app) — admin demo: demo@noorhms.app / NoorDemo2026! | Next.js · TypeScript · Prisma |
+| **Noor Suite** | All-in-one business management system — POS, inventory, invoices, CRM, HR, Kanban, double-entry accounting, SVG analytics. 106 files, 22 tests, CI/CD. [live here](https://noooreldein.github.io/noor-suite/) | React · TypeScript |
+| **Noor Clinic HMS** | Full clinic & pharmacy management system in Arabic — dashboard, patients, appointments, inventory, invoices, Canvas-drawn analytics. [live here](https://noooreldein.github.io/noor-clinic/) | Vanilla JS · localStorage |
+| **FRIENDS — Medical Store** | Full Arabic e-commerce for medical products, delivered and running live for the client: auth, cart, order tracking, WhatsApp & COD payments, admin dashboard. [client site](https://www.friendss.org/) | Next.js · TypeScript · Supabase |
+| **Chat Zone** | Real-time chat platform, [live here](https://chat-zone-tau.vercel.app) | HTML/CSS/JS |
+| **X-HOST Panel v3** | Web hosting control panel with dashboards for managing deployments | HTML/CSS/JS |
+| **FullStack API v2** | Full-stack API platform with a complete web interface, [live here](https://full-stack-api-v2.vercel.app) | Python · REST |
+| **HMGPT** | AI chat web app, [live here](https://pyramids-dun.vercel.app) | Python · AI APIs |
+| **XKGPT** | AI assistant web platform with multi-model dashboard, [live here](https://xkgpt.vercel.app) | Python · AI APIs |
 
 <br>
 
