@@ -31,6 +31,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Noor Clinic HMS**](https://github.com/noooreldein/noor-clinic) | Full clinic & pharmacy management system in Arabic — dashboard, patients, appointments, inventory, invoices, Canvas-drawn analytics. [live here](https://noooreldein.github.io/noor-clinic/) | Vanilla JS · localStorage |
 | [**FRIENDS — Medical Store**](https://github.com/noooreldein/FRIENDS.egy) | Full Arabic e-commerce for medical products: auth, cart, order tracking, WhatsApp & COD payments, admin dashboard | Next.js · TypeScript · Supabase |
 | [**Chat Zone**](https://github.com/noooreldein/chat-zone) | Real-time chat platform, [live here](https://chat-zone-tau.vercel.app) | HTML/CSS/JS |
 | [**X-HOST Panel v3**](https://github.com/noooreldein/X-HOSV3) | Web hosting control panel with dashboards for managing deployments | HTML/CSS/JS |
