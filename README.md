@@ -31,6 +31,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Noor Suite**](https://github.com/noooreldein/noor-suite) | All-in-one business management system — POS, inventory, invoices, CRM, HR, Kanban, double-entry accounting, SVG analytics. 106 files, 22 tests, CI/CD. [live here](https://noooreldein.github.io/noor-suite/) | React · TypeScript |
 | [**Noor Clinic HMS**](https://github.com/noooreldein/noor-clinic) | Full clinic & pharmacy management system in Arabic — dashboard, patients, appointments, inventory, invoices, Canvas-drawn analytics. [live here](https://noooreldein.github.io/noor-clinic/) | Vanilla JS · localStorage |
 | [**FRIENDS — Medical Store**](https://github.com/noooreldein/FRIENDS.egy) | Full Arabic e-commerce for medical products: auth, cart, order tracking, WhatsApp & COD payments, admin dashboard | Next.js · TypeScript · Supabase |
 | [**Chat Zone**](https://github.com/noooreldein/chat-zone) | Real-time chat platform, [live here](https://chat-zone-tau.vercel.app) | HTML/CSS/JS |
